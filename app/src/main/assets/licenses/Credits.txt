@@ -1,0 +1,10 @@
+ToneRoom 1.0 · AgentEngines
+
+Pocket TTS by Kyutai (English). Original weights: https://huggingface.co/kyutai/pocket-tts
+The bundled quantized ONNX conversion was prepared by KevinAHM and the sherpa-onnx project. This edition uses the English January 2026 int8 release and bundles the models without further alteration. Model weights: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/ . The full license is included with the app.
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+
+sherpa-onnx 2.0.3 · the sherpa-onnx authors · Apache License 2.0.
+https://github.com/k2-fsa/sherpa-onnx
+ONNX Runtime · Microsoft Corporation · MIT License.
+https://github.com/microsoft/onnxruntime
